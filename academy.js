@@ -2,7 +2,7 @@
 const board = [[null, null, null], [null, null, null], [null, null, null]]
 let player_turn = true //true for nought false for cross
 
-//this is a comment to test pushing to github
+//this is a comment to test pushing to githu
 
 // Take the row and column number between 0 and 2 
 // (inclusive) and update the game state.
